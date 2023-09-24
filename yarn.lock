@@ -17,6 +17,11 @@
   "resolved" "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.15.tgz"
   "version" "1.4.15"
 
+"@popperjs/core@^2.11.8":
+  "integrity" "sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A=="
+  "resolved" "https://registry.npmjs.org/@popperjs/core/-/core-2.11.8.tgz"
+  "version" "2.11.8"
+
 "@vitejs/plugin-vue@^4.2.3":
   "integrity" "sha512-ciXNIHKPriERBisHFBvnTbfKa6r9SAesOYXeGDzgegcvy9Q4xdScSHAmKbNT0M3O0S9LKhIf5/G+UYG4NnnzYw=="
   "resolved" "https://registry.npmjs.org/@vitejs/plugin-vue/-/plugin-vue-4.3.4.tgz"
@@ -111,6 +116,11 @@
   "integrity" "sha512-7OjdcV8vQ74eiz1TZLzZP4JwqM5fA94K6yntPS5Z25r9HDuGNzaGdgvwKYq6S+MxwF0TFRwe50fIR/MYnakdkQ=="
   "resolved" "https://registry.npmjs.org/@vue/shared/-/shared-3.3.4.tgz"
   "version" "3.3.4"
+
+"bootstrap@^5.3.2":
+  "integrity" "sha512-D32nmNWiQHo94BKHLmOrdjlL05q1c8oxbtBphQFb9Z5to6eGRDCm0QgeaZ4zFBHzfg2++rqa2JkqCcxDy0sH0g=="
+  "resolved" "https://registry.npmjs.org/bootstrap/-/bootstrap-5.3.2.tgz"
+  "version" "5.3.2"
 
 "csstype@^3.1.1":
   "integrity" "sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ=="
